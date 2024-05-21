@@ -11,6 +11,7 @@ function Welcome() {
             <div className="buttons">
                 <button className="btn">Ir al listado de temas</button>
                 <button className="btn">Más sobre mi</button>
+                <button className="btn">Contactame</button>
             </div>
         </div>
     );
