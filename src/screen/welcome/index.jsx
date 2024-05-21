@@ -6,7 +6,7 @@ import App from "../../App.jsx";
 function Welcome() {
     return (
         <div className="app">
-            <h1>App con React</h1>
+            <h1>App con React y Vite</h1>
             <p>Bienvenido a mi app donde podras consultar temas interesantes</p>
             <div className="buttons">
                 <button className="btn">Ir al listado de temas</button>
